@@ -1,4 +1,7 @@
-﻿using System;
+//Turma: 2-53
+//nome: Tiago Nathan, Macolin Miguel e Lucas Constante
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
